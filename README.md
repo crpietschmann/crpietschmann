@@ -2,7 +2,7 @@
 
 - 🔭 I’m Chris Pietschmann
 - 🔭 I’m currently working on <https://Build5Nines.com> & <https://Powergentic.ai>
-- ⭐ I'm currently a **Microsoft MVP**, **HashiCorp Ambassador**, and **Microsoft Certified Trainer (MCT)**
+- ⭐ I'm currently a **Microsoft MVP** (Azure & Dev Tools), **HashiCorp Ambassador**, and **Microsoft Certified Trainer (MCT)**
 - ⭐ I've been blogging for 20+  years <https://pietschsoft.com> & <https://build5nines.com>
 - 💬 I'm a teacher and author <https://members.build5nines.com>
 - 💬 I’m on Bluesky <https://bsky.app/profile/crpietschmann.bsky.social>
