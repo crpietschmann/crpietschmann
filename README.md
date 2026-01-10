@@ -2,7 +2,9 @@
 
 - 🔭 I’m Chris Pietschmann
 - 🔭 I’m currently working on <https://Build5Nines.com> & <https://Powergentic.ai>
-- ⭐ I'm a 14-time awarded **[Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/7f2b88ae-3c9a-e411-93f2-9cb65495d3c4)** (Microsoft Azure & Developer Technologies), 4-time awarded **HashiCorp Ambassador**, and a **Microsoft Certified Trainer (MCT)** since 2017
+- ⭐ I'm a **[Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/7f2b88ae-3c9a-e411-93f2-9cb65495d3c4)**, awarded in dual categories of Microsoft Azure & Developer Technologies!
+- ⭐ I'm a **HashiCorp Ambassador** (4x awards - '25, '24', '23, '21)
+- ⭐ I'm a **Microsoft Certified Trainer (MCT)**, since 2017
 - ⭐ I've been blogging for nearly 25 years - <https://pietschsoft.com> & <https://build5nines.com>
 - 💬 I'm an author and trainer - <https://members.build5nines.com>
 - 💬 I’m on Bluesky <https://bsky.app/profile/crpietschmann.bsky.social>
