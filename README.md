@@ -6,7 +6,7 @@
 - ⭐ I'm a **HashiCorp Ambassador** (4x awards - 2021, 2023 - 2025)
 - ⭐ I'm an **IBM Champion** (2026 - Current)
 - ⭐ I'm a **Microsoft Certified Trainer (MCT)**, since 2017
-- ⭐ I've been blogging for about 25 years - <https://pietschsoft.com> & <https://build5nines.com>
+- ⭐ I've been blogging for about 25 years - <https://pietschsoft.com>
 - 💬 I'm an author and trainer - <https://build5nines.com>
 - 💬 I’m on Bluesky <https://bsky.app/profile/crpietschmann.bsky.social>
 - 📫 How to reach me: <https://build5nines.com/contact>
