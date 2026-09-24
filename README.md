@@ -9,7 +9,7 @@
 - 💬 I'm an author and trainer - <https://build5nines.com> & <https://powergentic.ai>
 - 💬 I’m on Bluesky <https://bsky.app/profile/crpietschmann.bsky.social>
 - 📫 How to reach me: <https://build5nines.com/contact>
-- 😄 Pronouns: He/Him
+- 👨 Pronouns: He/Him
 - ⚡ Fun fact: I have completed 🏃‍♂️ 3x full marathons, 8x half marathons, 10x 10Ks, and 3 runDisney Dopey Challenges (48.6 miles)
 <!--
 - 🌱 I’m currently learning ...
