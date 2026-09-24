@@ -1,13 +1,12 @@
-## Hi there 👋
+## Hi there 👋, my name is Chris Pietschmann.
 
-- 🔭 I’m Chris Pietschmann
-- 🔭 I’m currently working on <https://Build5Nines.com> & <https://Powergentic.ai>
+- 🔭 At work, I'm the **Practice Lead of Digital & App Innovation** at [OZ Digital](https://followoz.com)
 - ⭐ I'm a **[Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/7f2b88ae-3c9a-e411-93f2-9cb65495d3c4)** since 2008, awarded 14-times (2008-2012, 2017 - Current), currently in dual categories of Microsoft Azure & Developer Technologies!
 - ⭐ I'm a **HashiCorp Ambassador** (4x awards - 2021, 2023 - 2025)
 - ⭐ I'm an **IBM Champion** (2026 - Current)
 - ⭐ I'm a **Microsoft Certified Trainer (MCT)**, since 2017
-- ⭐ I've been blogging for about 25 years - <https://pietschsoft.com>
-- 💬 I'm an author and trainer - <https://build5nines.com>
+- ⭐ I've been blogging for ~25 years - <https://pietschsoft.com>
+- 💬 I'm an author and trainer - <https://build5nines.com> & <https://powergentic.ai>
 - 💬 I’m on Bluesky <https://bsky.app/profile/crpietschmann.bsky.social>
 - 📫 How to reach me: <https://build5nines.com/contact>
 - 😄 Pronouns: He/Him
